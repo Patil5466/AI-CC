@@ -1,0 +1,12 @@
+Enter the number of vertices:  5
+Enter the edges (pairs of vertices separated by a space):
+Enter an edge (or 'done' to finish):  0 1
+Enter an edge (or 'done' to finish):  1 2
+Enter an edge (or 'done' to finish):  2 3
+Enter an edge (or 'done' to finish):  2 4
+Enter an edge (or 'done' to finish):  3 4
+Enter an edge (or 'done' to finish):  4
+Invalid input. Please enter valid edges.
+Enter an edge (or 'done' to finish):  done
+Enter the number of colors:  4
+Graph coloring: [1, 2, 1, 2, 3]
