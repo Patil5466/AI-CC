@@ -1,0 +1,10 @@
+Enter the size of the graph: 5  
+Enter the size of input: 6  
+Enter edges 1 of graph: 0 1
+Enter edges 2 of graph: 0 2
+Enter edges 3 of graph: 0 3
+Enter edges 4 of graph: 1 2
+Enter edges 5 of graph: 2 4
+Enter edges 6 of graph: 3 4  
+Enter the starting vertex:0
+DFS of Graph  0 1 2 4 3
